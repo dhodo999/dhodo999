@@ -102,3 +102,6 @@
 <p style="text-align: center;" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhodo999&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
+<p style="text-align: center;" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" />
+</p>
