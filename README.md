@@ -13,7 +13,7 @@
   <h3>Talking about Personal Stuffs:</h3>
   <ul>
     <li>🛠 I’m currently working with Laravel, React, NextJS, ExpressJS<br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Python, Godot, etc. </li>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, TypeScript, MongoDB, Python, Godot, etc. </li>
     <li>🚀 I’m currently learning Machine Learning and Game Development</li>
     <li>📫 How to reach me <b>
         <a href="mailto:elaidho@gmail.com">elaidho@gmail.com</a>
