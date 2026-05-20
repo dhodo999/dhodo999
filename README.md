@@ -12,7 +12,7 @@
 <div style="text-align: left;">
   <h3>Talking about Personal Stuffs:</h3>
   <ul>
-    <li>🛠 I’m currently working with Laravel, <br />
+    <li>🛠 I’m currently working with Laravel, React, NextJS, ExpressJS<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Python, Godot, etc. </li>
     <li>🚀 I’m currently learning Machine Learning and Game Development</li>
     <li>📫 How to reach me <b>
